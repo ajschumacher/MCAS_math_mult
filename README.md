@@ -6,7 +6,7 @@ as of January 2013 and used the Mac screenshot function to create PNG
 images for every multiple-choice question that didn't explicitly require 
 some additional resource, like a ruler. We recorded the correct answers 
 in simple text files. This produced 1,236 items from 53 exams offered 
-from 2007 to 2012 and for grades 3, 4, 5, 6, 7, 8, and 10.
+from 2007 to 2012 for grades 3, 4, 5, 6, 7, 8, and 10.
 
 I plan to use these items in a project I'm working on, but I'd like to 
 make them available in this format for others as well, so that the work 
@@ -41,8 +41,9 @@ I am not in any way affiliated with Masachusetts or its education system.
 I just hope that by making these items available I might in some small 
 way contribute to improving education overall. Use these items well!
 
-- Aaron Schumacher
+~ Aaron Schumacher
 
+* * *
 
 Massachusetts Department of Elementary and Secondary Education copyright 
 notice:
