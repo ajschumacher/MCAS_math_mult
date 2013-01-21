@@ -1,0 +1,25 @@
+A
+D
+B
+D
+C
+D
+A
+D
+C
+B
+D
+#calc (but not really)
+B
+D
+A
+C
+A
+D
+A
+A
+D
+D
+B
+D
+B
